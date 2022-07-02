@@ -13,6 +13,11 @@ matches:
     replace: 'Շնորհակալություն'
   - trigger: ':armenianthanks'
     replace: 'Շնորհակալություն'
+    
+  - trigger: ':germanthx'
+    replace: 'Vielen Dank'
+  - trigger: ':germanthanks'
+    replace: 'Vielen Dank'
 
   - trigger: ':basquethx'
     replace: 'Eskerrik asko'
